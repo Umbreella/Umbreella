@@ -72,8 +72,8 @@
   <a href="mailto:draginvadim@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="gmail"/>
   </a>
-  <div style="margin-left: 8px">
-    or <a>draginvadim@gmail.com</a>
+  <div>
+    or draginvadim@gmail.com
   </div>
 </div>
 
