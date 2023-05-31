@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="gmail"/>
   </a>
   <div style="margin-left: 8px">
-    or draginvadim@gmail.com
+    or <a>draginvadim@gmail.com</a>
   </div>
 </div>
 
