@@ -15,7 +15,8 @@
 
 - :handshake: I’m looking for help with **Backend Design**
 
-- :computer: All of my projects are available [Portfolio Website](https://umbreella-dev.ru/)
+- :computer: All of my projects are
+  available [Portfolio Website](https://umbreella-dev.ru/)
 
 - :zap: Fun fact **Coding is a passion and not profession.**
 
@@ -38,6 +39,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
   <img src="https://img.shields.io/badge/postgresql_(patroni)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+</div>
+
+<h3 align="center">Testing</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/unittest-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="unittest"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
 </div>
 
 <h3 align="center">Cloud</h3>
