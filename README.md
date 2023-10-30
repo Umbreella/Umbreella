@@ -11,7 +11,8 @@
 
 - :seedling: I’m currently learning
   ![fastapi](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![aiogram](https://img.shields.io/badge/aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 - :handshake: I’m looking for help with **Backend Design**
 
@@ -32,6 +33,7 @@
   <img src="https://img.shields.io/badge/django_rest_framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="drf"/>
   <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="celery"/>
   <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/>
+  <img src="https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlalchemy"/>
 </div>
 
 <h3 align="center">Database</h3>
